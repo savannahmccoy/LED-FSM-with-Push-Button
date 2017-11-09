@@ -1,5 +1,5 @@
 # LED-FSM-with-Push-Button
-FSM implemented on arduino to control LEDs using a push button
+Finite State Machine implemented on arduino to control LEDs using a push button
 
 I modified the example code from the [arduino website](https://www.arduino.cc/en/Tutorial/StateChangeDetection) to include 3 LEDs. 
 The schematic is as follows:
